@@ -1,19 +1,19 @@
-<mxfile host="www.draw.io" modified="2019-11-10T22:51:42.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="O4ukNOM-vNEc780YVJRG" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-10T23:12:29.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15" etag="YApGccLEaZ3bBtMTb_AN" version="12.2.3" type="github" pages="1">
   <diagram id="gwtcu8Rf-SV7EkaIj40w" name="Page-1">
-    <mxGraphModel dx="2244" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-1" target="ZbMX1jnrtSuU7y5GEeRf-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-1" value="Habilidades en Física y Matemáticas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="410" width="120" height="60" as="geometry"/>
+        <mxCell id="sW6JMHkc4esJggJYWJq9-1" value="Habilidades en Física y Matemáticas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="410" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-2" target="ZbMX1jnrtSuU7y5GEeRf-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-2" value="Competencias disciplinarias" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sW6JMHkc4esJggJYWJq9-2" value="Competencias disciplinarias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="212" y="610" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-8" target="ZbMX1jnrtSuU7y5GEeRf-24">
@@ -36,16 +36,18 @@
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-8" target="ZbMX1jnrtSuU7y5GEeRf-26">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-8" value="Nuevas Habilidades" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sW6JMHkc4esJggJYWJq9-8" value="Nuevas Habilidades" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="402.5" y="760" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-43" value="Cultura Digital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="882.5" width="80" height="40" as="geometry"/>
-        </mxCell>
+        <UserObject label="Cultura Digital" link="https://www.google.com/amp/s/amp.expansion.com/ahorro/2017/06/10/593a77d4468aeb83748b45e1.html" id="ZbMX1jnrtSuU7y5GEeRf-43">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="402.5" y="882.5" width="80" height="40" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-6" target="ZbMX1jnrtSuU7y5GEeRf-17">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-6" value="Tradicionales" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sW6JMHkc4esJggJYWJq9-6" value="Tradicionales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="110" y="760" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-5" target="ZbMX1jnrtSuU7y5GEeRf-60">
@@ -53,59 +55,88 @@
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-5" target="ZbMX1jnrtSuU7y5GEeRf-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="650" as="targetPoint"/>
+            <mxPoint x="585" y="675.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sW6JMHkc4esJggJYWJq9-5" target="ZbMX1jnrtSuU7y5GEeRf-64">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-5" value="Competencias Blandas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="610" width="90" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-60" value="Versatiilidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="550" width="90" height="40" as="geometry"/>
-        </mxCell>
+        <UserObject label="Competencias Blandas" link="https://www.originaleaders.com/21-habilidades-blandas-la-escuela-del-siglo-xxi-21x21/" id="sW6JMHkc4esJggJYWJq9-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="415" y="635.5" width="90" height="40" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Versatilidad" link="http://blogs.mat.ucm.es/catedramdeguzman/la-profesion-de-matematico/" id="ZbMX1jnrtSuU7y5GEeRf-60">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="510" y="575.5" width="90" height="40" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="sW6JMHkc4esJggJYWJq9-10" value="Universidades&lt;br&gt;(Pregrado, Posgrado)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="870" width="130" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-11" value="Computacionales" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="135" y="870" width="105" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-12" value="Técnicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <UserObject label="Computacionales" link="http://matematicas.uam.es/~antonio.cordoba/miscelanea/ensayos/El%20computador%20y%20las%20matematicas.pdf" id="sW6JMHkc4esJggJYWJq9-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="135" y="870" width="105" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="sW6JMHkc4esJggJYWJq9-12" value="Técnicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="257.5" y="870" width="65" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="sW6JMHkc4esJggJYWJq9-13" value="Multidisciplinares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="192" y="912.5" width="110" height="30" as="geometry"/>
+        <UserObject label="Multidisciplinares" link="https://noticias.universia.net.mx/educacion/noticia/2018/07/04/1160413/matematicas-carrera-futuro.html" id="sW6JMHkc4esJggJYWJq9-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="192" y="912.5" width="110" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cursos Online" link="https://www.edx.org/professional-certificate/nyif-mortgage-backed-securities" id="ZbMX1jnrtSuU7y5GEeRf-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="265" y="1005" width="65" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-2" target="ZbMX1jnrtSuU7y5GEeRf-68">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-1" value="Cursos Online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1005" width="65" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-2" value="Cursos &amp;nbsp;extra en la Universidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="1005" width="108" height="35" as="geometry"/>
-        </mxCell>
+        <UserObject label="Cursos &amp;nbsp;extra en la Universidad" link="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/2091_curso-teoria-de-grafos-analisis-de-datos-y-sus-aplicaciones" id="ZbMX1jnrtSuU7y5GEeRf-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="352" y="1005" width="108" height="35" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-3" value="Grafos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="932.5" width="52" height="30" as="geometry"/>
+          <mxGeometry x="380" y="1120" width="52" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-4" value="Alineados con el futuro de la Profesión" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498.5" y="929" width="83" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="Alineados con el futuro de la Profesión" link="https://www.bbva.com/es/las-matematicas-una-profesion-de-futuro/" id="ZbMX1jnrtSuU7y5GEeRf-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="498.5" y="929" width="83" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-5" target="ZbMX1jnrtSuU7y5GEeRf-55">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-5" value="Cambios en el Currículo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="761" width="77" height="38" as="geometry"/>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-6" value="Cursos en Computación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="581.5" y="852.5" width="83" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="Cursos en Computación" link="http://pensamientoeducativo.uc.cl/files/journals/2/articles/180/public/180-431-1-PB.pdf" id="ZbMX1jnrtSuU7y5GEeRf-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="581.5" y="852.5" width="83" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-8" target="sW6JMHkc4esJggJYWJq9-2">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="580"/>
+              <mxPoint x="263" y="580"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-8" target="sW6JMHkc4esJggJYWJq9-5">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-8" target="sW6JMHkc4esJggJYWJq9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="580"/>
+              <mxPoint x="459" y="580"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-8" value="Se componen de" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="510" width="85" height="40" as="geometry"/>
+          <mxGeometry x="330" y="520" width="85" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-12" target="sW6JMHkc4esJggJYWJq9-6">
           <mxGeometry relative="1" as="geometry"/>
@@ -170,10 +201,21 @@
           <mxGeometry x="668.5" y="820" width="60" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="ZbMX1jnrtSuU7y5GEeRf-63" value="Comunicación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608.5" y="610" width="90" height="40" as="geometry"/>
+          <mxGeometry x="603.5" y="635.5" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-64" value="Trabajo en Equipo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="659" width="80" height="40" as="geometry"/>
+        <UserObject label="Trabajo en Equipo" link="https://matematicas.uniandes.edu.co/index.php/pregrado/objetivo-competencias" id="ZbMX1jnrtSuU7y5GEeRf-64">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="515" y="684.5" width="80" height="40" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZbMX1jnrtSuU7y5GEeRf-68" target="ZbMX1jnrtSuU7y5GEeRf-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-68" value="Ejemplo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381" y="1070" width="50" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZbMX1jnrtSuU7y5GEeRf-72" value="Grupo 3:&lt;br&gt;Jose David Peñaranda Rivera 201716778&amp;nbsp;&lt;br&gt;Nicolás de la Hoz 201729392" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="250" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
